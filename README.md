@@ -3,8 +3,10 @@ Built a client and a server that implemented a task management protocol.
 
 
 To run:
-run the makefile 
+run the makefile by doing a make
+
 run ./jobserver
+
 run ./jobclient 127.0.0.1
 
 Now you can use some command on the client which will be sent to the server to be executed.
